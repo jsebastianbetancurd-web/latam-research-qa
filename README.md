@@ -1,4 +1,4 @@
-# Project 02 — Internal Research Q&A Assistant
+# Project — Internal Research Q&A Assistant
 
 ## Goal
 The goal of this project is to create a high-fidelity intelligence layer over proprietary internal research documents. It targets the "information overload" problem faced by market analysts by providing a tool that can instantly extract relevant data points, sentiment, and macro-themes from vast libraries of research PDFs, ensuring that no critical insight is overlooked during market shifts.
